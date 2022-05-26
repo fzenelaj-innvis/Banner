@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style-banners.scss"
+    ],
+    "names": [],
+    "file": "style-banners.css"
+}
